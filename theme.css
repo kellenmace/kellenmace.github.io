@@ -1,0 +1,28 @@
+.top-buffer {
+	margin-top:48px;
+}
+
+.bottom-buffer {
+	margin-bottom: 15px;
+}
+
+#profile {
+	overflow: hidden;
+}
+
+#profile img {
+	float: left;
+	padding: 10px;
+}
+
+#profile p {
+	display: block;
+}
+
+#km-contact-form {
+	overflow: hidden;
+}
+
+#km-footer img {
+	width: 40px;
+}
